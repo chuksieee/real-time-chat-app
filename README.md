@@ -18,9 +18,8 @@ A real-time chat platform built using **React.js** and **Firebase**, allowing us
 - **Tools:** React Developer Tools, Firebase Logs
 
 ## 📊 Documentation
-- [Design Document](./docs/design-doc.md)
-- [STRIDE Threat Model](./docs/stride-threat-model.md)
-
+- [Design Document](./docs/real_time_chat_design.md)
+- [STRIDE Threat Model](./docs/real_time_chat_stride.md)
 ## ⚡ Setup Instructions
 1. Clone the repo:
    ```bash
